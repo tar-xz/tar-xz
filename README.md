@@ -1,6 +1,6 @@
-<img align="right" alt="AS6939's Github stats" src="https://github-readme-stats.vercel.app/api?username=tar-xz&show_icons=true&count_private=true">
+<img align="right" alt="tar-xz's Github stats" src="https://github-readme-stats.vercel.app/api?username=tar-xz&show_icons=true&count_private=true">
 
-# William Wong
+# tar-xz
 
 Hi there 👋
 
